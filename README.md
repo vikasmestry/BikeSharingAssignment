@@ -33,7 +33,7 @@
 
 ## Acknowledgements
 Credits
-- Analysis done by Sujeet Karnik
+- Analysis done by Vikas Mestry
 
 ## Contact
 Created by [@vikasmestry] - feel free to contact me!
